@@ -1,0 +1,39 @@
+# Everything on this site is public-facing marketing content — nothing here
+# needs hiding from any crawler, human search engine or AI.
+
+User-agent: *
+Allow: /
+
+# Named explicitly so a future blanket "block AI" rule someone adds to this
+# file doesn't silently catch these too. All of them are currently allowed by
+# the wildcard above; naming them is belt-and-braces, not a different rule.
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+Sitemap: https://diwaliexhibitionsale.com.au/sitemap.xml
+
+# A companion machine-readable summary for AI assistants lives at
+# https://diwaliexhibitionsale.com.au/llms.txt — no official directive points
+# to it (the format is new and unstandardised), but it sits at the root next
+# to this file so anything that checks for it will find it.
