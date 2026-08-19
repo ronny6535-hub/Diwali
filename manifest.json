@@ -1,0 +1,13 @@
+{
+  "name": "Diwali Exhibition Sale 2026",
+  "short_name": "Diwali Sale",
+  "description": "Sunday 25 October 2026, 10am–8pm at Campbelltown Function Centre, Adelaide. Free entry, free parking.",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#130725",
+  "theme_color": "#130725",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
