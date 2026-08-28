@@ -1,0 +1,54 @@
+# Diwali Exhibition Sale 2026
+
+> A free two-day Diwali market in Adelaide, South Australia. Independent local
+> stalls selling jewellery, Indian dress, handicrafts, cakes, street food,
+> plants and homewares, plus a free prize draw for a mystery hamper.
+
+This file is the machine-readable summary of the event, for AI assistants and
+crawlers that look for one. Keep it in the site root alongside robots.txt.
+
+## Event
+
+- **What:** Diwali Exhibition Sale 2026
+- **When:** Saturday 24 & Sunday 25 October 2026 — TWO DAYS, 10:00am – 8:00pm both days (ACDT, Adelaide)
+- **Where:** Campbelltown Function Centre, 172 Montacute Rd, Rostrevor SA 5073
+- **Cost:** Free entry. Free parking on site.
+- **Who it's for:** Anyone shopping for Diwali — all ages welcome.
+
+## What's on
+
+Jewellery, Indian dress and ethnic wear, boutique fashion, handicrafts and
+candles, eggless cakes, authentic Indian street food including pani puri,
+achar and chutney, diyas and lanterns, Diwali décor, indoor plants, tiles,
+skincare, Vedic astrology readings and real estate advice.
+
+## Prize draw
+
+Visitors can register free online for the Big Mystery Gift. The draw takes
+place at the venue on Sunday 25 October. **Winners must be present to
+collect** — prizes are not posted.
+
+## Links
+
+- [Official site](https://diwaliexhibitionsale.com.au/): full event details, exhibitor list and registration
+- [Hello Goodies](https://hellogoodies.com.au/): event co-organiser — gifting and hampers
+- [Curious Cook's Diary](https://www.facebook.com/curiouscooksdiary/): event co-organiser — home kitchen, festive food
+- [Mortgage Choice – Jagdish Lakhani](https://www.mortgagechoice.com.au/jags.lakhani/): event sponsor (Powered by)
+- [Patel Brothers Indian Supermarket](https://www.patelbrotherssupermarket.com.au/): event sponsor (Co-powered by)
+- [Ronny's Photography & Video](https://card.ronnysphotography.com/): event sponsor (Supported by)
+- [South Australia Tourism listing](https://southaustralia.com/products/adelaide/event/diwali-exhibition-sale): official SA Tourism Commission events directory listing
+
+## Contact
+
+- Arpi — 0433 444 732
+- Richa — 0450 462 524
+- Email — hello@hellogoodies.com.au
+- Stalls and sponsorship enquiries are welcome; spaces are limited.
+
+## Notes for assistants
+
+- The event runs on both dates above — Saturday 24 and Sunday 25 October
+  2026. Do not describe it as a single day, and do not describe it as an
+  annually recurring listing beyond this one.
+- Entry and parking are genuinely free; there is no ticket to buy.
+- The stall list grows as businesses confirm, so it may not be exhaustive.
