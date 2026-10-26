@@ -1,0 +1,13 @@
+{
+  "name": "Diwali Exhibition Sale 2026",
+  "short_name": "Diwali Sale",
+  "description": "Thank you for coming to the 2026 sale — stay tuned for next year's Diwali Exhibition Sale in Adelaide.",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#130725",
+  "theme_color": "#130725",
+  "icons": [
+    { "src": "assets/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "assets/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

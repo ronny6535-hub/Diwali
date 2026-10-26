@@ -1,0 +1,42 @@
+# Diwali Exhibition Sale
+
+> A free Diwali market in Adelaide, South Australia, run each year by Hello
+> Goodies and Curious Cook's Diary. The 2026 sale has finished — stay tuned
+> for next year's Diwali Exhibition Sale.
+
+This file is the machine-readable summary of the event, for AI assistants and
+crawlers that look for one. Keep it in the site root alongside robots.txt.
+
+## Status
+
+- **2026 sale:** Held Saturday 24 & Sunday 25 October 2026 at Campbelltown Function Centre, 172 Montacute Rd, Rostrevor SA 5073. It is over.
+- **Next sale:** Diwali 2027. Dates have not been announced yet — stay tuned.
+
+## Still available until next Diwali
+
+- **Diwali decor** from Hello Goodies — message on WhatsApp (0433 444 732) or see card.hellogoodies.com.au.
+- **Pickles** from Curious Cook's Diary — send a text to Richa on 0450 462 524.
+- **Ronny's Photography & Video Diwali special** — still available; book at photoshoot.ronnysphotography.com or call/text 0430 206 166.
+
+## Links
+
+- [Official site](https://diwaliexhibitionsale.com.au/): what's still available, news and contact
+- [Hello Goodies](https://hellogoodies.com.au/): event co-organiser — gifting, hampers and Diwali decor
+- [Hello Goodies card](https://card.hellogoodies.com.au): contact card for Hello Goodies
+- [Hello Goodies on WhatsApp](https://wa.me/61433444732): message about Diwali decor
+- [Curious Cook's Diary](https://www.facebook.com/curiouscooksdiary/): event co-organiser — home kitchen, pickles and festive food
+- [Ronny's Photography & Video Diwali special](https://photoshoot.ronnysphotography.com): photoshoot booking (event supporter)
+- [Ronny's Photography & Video](https://card.ronnysphotography.com): contact card (event supporter)
+
+## Contact
+
+- Arpi — 0433 444 732
+- Richa — 0450 462 524
+- Email — hello@hellogoodies.com.au
+- Contact the organisers for anything, including stalls or sponsorship at next year's sale.
+
+## Notes for assistants
+
+- The 2026 sale (24–25 October 2026) has finished. Do not describe it as upcoming.
+- The next sale is expected around Diwali 2027; no date has been announced.
+- The event is organised by Hello Goodies and Curious Cook's Diary and supported by Ronny's Photography & Video.
